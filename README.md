@@ -82,7 +82,7 @@ You are now running a web server locally... on your very own desktop!  You can n
 
 ![localhost](images/localhost.png)
 
-Here is what the whole process would look like:
+Here is what the whole process would look like: 
 
 ```
 z-air:~ aaronr$ git clone https://github.com/aaronr/pong.git
